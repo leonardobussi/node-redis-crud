@@ -1,0 +1,15 @@
+{
+  "name": "crud_redis",
+  "description": "Um Crud feito para a aula de Banco NoSQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Raisler, Leo, Luan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "redis": "^2.8.0"
+  }
+}
